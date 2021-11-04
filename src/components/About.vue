@@ -1,19 +1,11 @@
 <template>
   <div class="about">
-    <!-- About Start -->
     <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
       <h1 class="title pb-3 mb-5">About Me</h1>
       <p>
-        Diam rebum sea stet rebum ea. Et kasd amet et accusam elitr voluptua.
-        Tempor dolore sit et accusam ipsum erat duo. Gubergren et takimata dolor
-        duo amet et sanctus elitr lorem. Ipsum amet duo rebum dolor labore. No
-        diam duo lorem elitr dolor takimata elitr no. Magna et gubergren duo
-        ipsum sed, amet ea voluptua dolores voluptua dolor ipsum et. Sit
-        takimata erat consetetur invidunt lorem consetetur. Lorem magna diam
-        vero nonumy. Aliquyam diam voluptua magna et magna nonumy. Accusam rebum
-        clita et sit vero lorem, voluptua amet sit eos no et labore vero, et
-        consetetur justo et et sit aliquyam labore, sit erat lorem justo dolores
-        kasd est sit. Dolor et accusam ea et dolor sit.
+        AWS Certified Cloud practitioner with Fullstack developer experience using Oracle PL/SQL, Oracle Apex and Oracle Forms. 
+        In addition, I have worked on various projects using multiple programming languages including C, C++, Java, Python and MATLAB among others. 
+        I am passionate about technology and willing to solve any task presented to me.
       </p>
       <div class="row mb-4">
         <div class="col-sm-6 py-1">
@@ -86,6 +78,5 @@
         </div>
       </div>
     </section>
-    <!-- About End -->
   </div>
 </template>
